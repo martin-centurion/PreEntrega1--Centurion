@@ -1,10 +1,13 @@
 
 function CartWidget () {
+
+    let valor = 0;
+
     return (
-        <div className="Header__content-icono">
+        <div className="header__content-icono">
             <a href="@">
                     <i className="bi bi-bag"></i>
-                    <span>3</span>
+                    <span>{ valor }</span>
             </a>
         </div>
     );

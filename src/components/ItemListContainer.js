@@ -1,6 +1,6 @@
 function ItemListContainer ({ greeting }) {
     return (
-        <div>
+        <div className="container">
             <h2 className="item">{ greeting }</h2>
         </div>
     );

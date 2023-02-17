@@ -3,12 +3,12 @@ import Logo from "./Logo";
 
 function NavBar() {
     return (
-        <div className="Header">
-            <div className="Header__content">
-                <div className="Header__content-logo">
+        <div className="header">
+            <div className="header__content container">
+                <div className="header__content-logo">
                         <Logo />
                 </div>
-                <div className="Header__content-menu">
+                <div className="header__content-menu">
 
                     <nav>
                         <ul>
