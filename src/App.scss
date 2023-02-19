@@ -61,6 +61,7 @@ button {
   color: white;
   cursor: pointer;
   font-size: 1.5rem;
+  transition: .3s;
 }
 
 .header__content-icono a:hover {
@@ -82,6 +83,7 @@ button {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 2rem;
   text-align: center;
+  width: 300px;
 }
 
 .productos__content img {
@@ -111,6 +113,11 @@ button {
 .productos__content-cantidad-contador p {
   margin: .5rem;
   cursor: pointer;
+  transition: .3s;
+}
+
+.productos__content-cantidad-contador p:hover {
+  color: rgb(246, 41, 167);
 }
 
 .productos__content button {
@@ -122,10 +129,12 @@ button {
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  transition: .3s;
 }
 
 .productos__content button:hover {
-  background-color: gray;
+  background-color: rgb(246, 41, 167);
+  color: black;
 }
 
 /* MEDIA QUERY */

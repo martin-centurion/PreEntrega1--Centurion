@@ -7,6 +7,7 @@ export default function ItemCount () {
 
     const [contador, setCount] = useState(0);
 
+
     function agregarProductos () {
     setCount(contador + 1);
     }
