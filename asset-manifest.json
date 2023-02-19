@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1--Centurion/static/css/main.2853ad54.css",
+    "main.js": "/PreEntrega1--Centurion/static/js/main.19c7a543.js",
+    "static/js/787.2e0f80a4.chunk.js": "/PreEntrega1--Centurion/static/js/787.2e0f80a4.chunk.js",
+    "static/media/buzo_morado.jpg": "/PreEntrega1--Centurion/static/media/buzo_morado.eff4224c6125de130013.jpg",
+    "index.html": "/PreEntrega1--Centurion/index.html",
+    "main.2853ad54.css.map": "/PreEntrega1--Centurion/static/css/main.2853ad54.css.map",
+    "main.19c7a543.js.map": "/PreEntrega1--Centurion/static/js/main.19c7a543.js.map",
+    "787.2e0f80a4.chunk.js.map": "/PreEntrega1--Centurion/static/js/787.2e0f80a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2853ad54.css",
+    "static/js/main.19c7a543.js"
+  ]
+}
